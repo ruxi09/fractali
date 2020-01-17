@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ruxi/Developer/fractali/main.cpp
+CImg.h
+/Users/ruxi/Developer/fractali/CImg.h
+iostream
+-
+sstream
+-
+
